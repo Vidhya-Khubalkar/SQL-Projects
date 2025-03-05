@@ -1,2 +1,13 @@
 # SQL-Projects
-SQL projects covering various business scenarios.
+
+SQL Projects
+
+Welcome to my SQL Projects repository! 🚀 This repository contains various SQL projects covering different business scenarios, data analysis, and database management tasks.
+
+🚀 Contributing
+
+Feel free to explore, use, and suggest improvements! 😊
+
+📞 Contact
+
+📧 Email: vidhyakhubalkar@gmail.com🔗 LinkedIn: Vidhya Khubalkar
